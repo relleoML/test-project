@@ -15,3 +15,7 @@ Description of something else relevant to the repository
 ## A third topic entered
 
 Some more information added
+
+## A final chapter
+
+even more important information
